@@ -17,7 +17,7 @@
 				control_display: 'auto',
 				start_position: 0,
 				auto_start: true,
-				mode_360: true
+				mode_360: var_360
 			};
 			if(options) $.extend(settings, options);
 		
